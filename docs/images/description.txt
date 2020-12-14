@@ -1,0 +1,1 @@
+This cartography lab exercises ones ability to create a webmap with a query function. 
